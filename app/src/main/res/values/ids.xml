@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ID resources for UI elements -->
+    <item name="my_view_id" type="id"/>
+    <item name="my_button_id" type="id"/>
+    <!-- Tambahkan ID lainnya jika diperlukan -->
+</resources>
